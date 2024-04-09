@@ -1,0 +1,16 @@
+
+body {
+    margin: 0; /* Eliminar márgenes predeterminados */
+    padding: 0; /* Eliminar relleno predeterminado */
+    height: 100vh; /* Establecer altura al 100% del viewport height */
+    display: flex; /* Utilizar el modelo de caja flexible */
+    justify-content: center; /* Centrar horizontalmente el contenido */
+    align-items: center; /* Centrar verticalmente el contenido */
+}
+img {
+    width: 50%; /* Cambiar el ancho de la imagen al 50% del ancho del contenedor */
+    height: auto; /* Mantener la proporción de aspecto original */
+}
+.container{
+    background-color: rgb(255, 255, 255);
+}
