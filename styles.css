@@ -1,8 +1,6 @@
 
 body {
-    margin: 0; /* Eliminar márgenes predeterminados */
-    padding: 0; /* Eliminar relleno predeterminado */
-    height: 100vh; /* Establecer altura al 100% del viewport height */
+    font-family: Arial, sans-serif; /* Cambiar la fuente para todo el texto dentro del cuerpo */
     display: flex; /* Utilizar el modelo de caja flexible */
     justify-content: center; /* Centrar horizontalmente el contenido */
     align-items: center; /* Centrar verticalmente el contenido */
